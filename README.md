@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+(linux bug resetted my save so it could have been more)
+# Repo PB solo: lvl 12
+# Repo PB w/ gf: lvl 15
+
+## Peak Dota MMR: 3.7k
+
+### Ironic to do list
+Resume website
+Learn JS
+Learn React
+
+
 <!--
 **tatinCode/tatinCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
