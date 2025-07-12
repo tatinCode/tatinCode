@@ -1,15 +1,16 @@
-## Hi there 👋
+just another comp sci student, aka future underqualified dishawasher. apporaching senior year at sfsu and is terified of AI's.
 
-## Repo PB solo: lvl 12
-## Repo PB w/ gf: lvl 15
-(linux bug reset my save so it could have been more)
+**Repo PB solo:** lvl 12
+### Repo PB w/ my beautiful gf: lvl 15 
+###### *(linux bug reset my save so it could have been more)*
 
-## Peak Dota MMR: 3.7k
 
-### Ironic to do list
-Resume website
-Learn JS
-Learn React
+Peak Dota MMR: 3.7k
+
+#### Ironic to do list
+- Resume website
+- Learn JS
+- Learn React
 
 
 <!--
