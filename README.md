@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-(linux bug resetted my save so it could have been more)
-# Repo PB solo: lvl 12
-# Repo PB w/ gf: lvl 15
+## Repo PB solo: lvl 12
+## Repo PB w/ gf: lvl 15
+(linux bug reset my save so it could have been more)
 
 ## Peak Dota MMR: 3.7k
 
