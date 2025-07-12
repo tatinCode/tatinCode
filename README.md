@@ -4,8 +4,7 @@ just another comp sci student, aka future underqualified dishawasher. apporachin
 ### Repo PB w/ my beautiful gf: lvl 15 
 ###### *(linux bug reset my save so it could have been more)*
 
-
-Peak Dota MMR: 3.7k
+Peak bench: 135
 
 #### Ironic to do list
 - Resume website
