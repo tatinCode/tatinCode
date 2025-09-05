@@ -1,6 +1,6 @@
 # Tatin — CS @ SFSU · Systems & Frontend
 
-I build across the stack: C/C++ for systems, JS/React for UI, and Linux everywhere.
+Senior CS student at SFSU that build across the stack: C/C++ for systems, JS/React for UI, and uses Linux everywhere. <br>
 Currently trying to tinker with Raspberry Pi and 3d printing.
 
 ## Selected Projects
