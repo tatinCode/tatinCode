@@ -1,28 +1,19 @@
-just another comp sci student, aka future underqualified dishawasher. apporaching senior year at sfsu and is terified of AI's.
+# Tatin — CS @ SFSU · Systems & Frontend
 
-**Repo PB solo:** lvl 12
-### Repo PB w/ my beautiful gf: lvl 15 
-###### *(linux bug reset my save so it could have been more)*
+I build across the stack: C/C++ for systems, JS/React for UI, and Linux everywhere.
+Currently trying to tinker with Raspberry Pi and 3d printing.
 
-Peak bench: 135
+## Selected Projects
+- **Magic Mirror** — Raspberry Pi dashboard with modular widgets (weather, calendar, Spotify).
+  - React + Node + WebSocket; boots in <2s on Pi 4; widget SDK with 3rd-party templates.
 
-#### Ironic to do list
-- Resume website
-- Learn JS
-- Learn React
+## Tech I use
+**Languages:** C++, Java, Python, JavaScript  
+**Frontend:** React, Vite, Tailwind  
+**Systems/Tools:** Linux (i3), Bash, Git, CMake, SDL2, Arduino, Raspberry Pi  
+**DevOps:** GitHub Actions, Docker (basics)
 
+## Now
+- Learning: C++ (alloc, cache), tiny graphics.
 
-<!--
-**tatinCode/tatinCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Keep it short. Recruiters skim. No self-owns, all signal. -->
