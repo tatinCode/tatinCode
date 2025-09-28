@@ -1,19 +1,11 @@
 # Tatin — CS @ SFSU · Systems & Frontend
 
-Senior CS student at SFSU that build across the stack: C/C++ for systems, JS/React for UI, and uses Linux everywhere. <br>
-Currently trying to tinker with Raspberry Pi and 3d printing.
+Senior CS student @ SFSU that likes low-level stuff and Linux/UNIX Looking to do more interesting stuff.
 
-## Selected Projects
-- **Magic Mirror** — Raspberry Pi dashboard with modular widgets (weather, calendar, Spotify).
-  - React + Node + WebSocket; boots in <2s on Pi 4; widget SDK with 3rd-party templates.
+Currently trying to tinker with Raspberry Pi, Arduino, and 3d printing.
 
 ## Tech I use
-**Languages:** C++, Java, Python, JavaScript  
-**Frontend:** React, Vite, Tailwind  
-**Systems/Tools:** Linux (i3), Bash, Git, CMake, SDL2, Arduino, Raspberry Pi  
+**Languages:** C/C++, Lua, Java, Python
+**Systems/Tools:** Arch (Linux), Zsh, Git, CMake, Makefile, Neovim/vi
 **DevOps:** GitHub Actions, Docker (basics)
 
-## Now
-- Learning: C++ (alloc, cache), tiny graphics.
-
-<!-- Keep it short. Recruiters skim. No self-owns, all signal. -->
