@@ -1,4 +1,4 @@
-# Tatin — CS @ SFSU · Systems & Frontend
+# Tatin — CS @ SFSU
 
 Senior CS student @ SFSU that likes low-level stuff and Linux/UNIX Looking to do more interesting stuff.
 
