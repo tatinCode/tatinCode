@@ -1,6 +1,6 @@
 # Tatin — CS @ SFSU
 
-Senior CS student @ SFSU that likes low-level stuff and Linux/UNIX Looking to do more interesting stuff.
+Senior CS student @ SFSU that likes low-level stuff and Linux/UNIX. Looking to do more interesting stuff.
 
 Currently trying to tinker with Raspberry Pi, Arduino, and 3d printing.
 
